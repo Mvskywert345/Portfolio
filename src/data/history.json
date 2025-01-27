@@ -1,0 +1,22 @@
+[
+  {
+    "role": "MERN Stack Intern ",
+    "organisation": "Mnnlr",
+    "startDate": "Jan ",
+    "endDate": "Present",
+    "experiences": ["Working on live projects ", "Building and maintaining  apps",
+                  "Collaborating with UI designers"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "AWS Intern",
+    "organisation": "ShapeMySkills",
+    "startDate": "June, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Designed and implemented AWS 3-Tier Architecture solutions", 
+    " Developed serverless applications with AWS Lambda, enhancing backend efficiency"
+     ],
+    "imageSrc": "history/microsoft.png"
+  }
+  
+]
